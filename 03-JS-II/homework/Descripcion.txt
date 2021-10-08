@@ -1,0 +1,5 @@
+for: es un bulcle que sirve para evitar la repeticion de comandos ("dry code") 
+LOS TRES: Los tres son operaciones matematicas booleanas
+&&: "si o si se tienen q cumplir los requisitos"
+||: "o una opcion u otra, o las dos sean verdaderas"
+!: "que sea lo contrario a "
