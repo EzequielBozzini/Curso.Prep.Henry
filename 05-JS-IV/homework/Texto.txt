@@ -1,0 +1,6 @@
+Objetos: son una coleccion de propiedades 
+prop son asociaciones entre un nombre y un valor al cual se accede a través de un key
+Metodos: son las funciones guardadas en un objeto, es cuando los valores de los objetos se usan en funciones.
+Bucle for...in: recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves
+Notacion de puntos: es una manera literal de acceder a las propiedades de un objeto
+Notacion de brackets: es una manera más sutil como cuando se usan los arrays.
