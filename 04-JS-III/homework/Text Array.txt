@@ -1,0 +1,4 @@
+ "Arrays: Se podria decir que son una lista de elementos
+ que estan ordenados y separados por la ",", que pueden 
+ sostener todos los tipos de datos posibles (strings, int, boolean, array,etc)
+ Tambien se puede llamar un tipo de dato no nativo. "
