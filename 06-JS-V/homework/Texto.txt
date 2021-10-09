@@ -1,0 +1,2 @@
+prototype: es como el antecesor de un objeto, el cual puede hacer referencia y sacar una propiedades
+Constructors de clase: El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
